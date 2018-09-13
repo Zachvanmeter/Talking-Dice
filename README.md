@@ -1,7 +1,7 @@
 Hello, I'm Zach or u/leonidizzil
 I wrote this script to make Table Top Gaming more accessible for the visually impaired. This Python script generates and reads a list of dice, bonuses and descriptions, then uses text to speech to announce the roll and description.
 
-### In order to use this program most easily, download the TalkingDice.exe file
+### In order to use this program most easily, download the TalkingDice.zip file, since it also includes the .exe
 
 You can view the customization options below, or in the stats.txt file which is automatically generated.
 
