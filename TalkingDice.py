@@ -89,5 +89,6 @@ def go():
 	doloop(mydict)	
 			
 if __name__ == '__main__':
+	print('Talking Dice is running...')
 	checkstats()
 	go()
