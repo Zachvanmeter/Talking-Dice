@@ -31,16 +31,27 @@ See some more examples below.
 
 
 a,1d20cs19+5 #Longsword Attack
+
 s,1d8+3 #Longsword Damage
+
 d,1d20+5 #Crossbow Attack
+
 f,1d8+1 #Crossbow Damage
+
 g,1d20+8 #Perception Check
+
 h,4d6+0 #Fireball dee see 19
+
 j,1d20+5 #Fortitude Save
+
 k,1d20+2 #Will Save
+
 l,1d20+4 #Reflex Save
+
 ;,1d20+5 #Combat Maneuver Bonus
 
 
+
 q,1d20cs15+6 #+1 Keen Scimitar
+
 w,1d6+5 #Scimitar Damage
