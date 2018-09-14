@@ -33,26 +33,47 @@ Commands can be bound to the following keys without error: a-z, A-Z, 0-9, `~!@$%
 Commands can NOT be bound to advanced keys: #, backspace, enter, arrow keys, function keys, ins, home, del, end, shift, alt, etc
 
 #This is a good example!
+
 1,1d4+0 #d4
+
 2,1d6+0 #d6
+
 3,1d8+0 #d8
+
 4,1d10+0 #d10
+
 5,1d12+0 #d12
+
 6,1d20+0 #d20
+
 7,1d100+0 #d100
 
+
 #Here are my favorite rolls!
+
 a,1d20cs19+5 #Longsword Attack
+
 s,1d8+3 #Longsword Damage
+
 d,1d20+5 #Crossbow Attack
+
 f,1d8+1 #Crossbow Damage
+
 g,1d20+8 #Perception Check
+
 h,4d6+0 #Fireball dee see 19
+
 j,1d20+5 #Fortitude Save
+
 k,1d20+2 #Will Save
+
 l,1d20+4 #Reflex Save
+
 ;,1d20+5 #Combat Maneuver Bonus
 
+
 #This is my friend's magic weapon, he is letting me borrow it.
+
 q,1d20cs15+6 #+1 Keen Scimitar
+
 w,1d6+5 #Scimitar Damage
