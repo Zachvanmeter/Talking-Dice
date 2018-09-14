@@ -29,8 +29,8 @@ crash.
 See some more examples below. It is perfectly acceptable to include spaces or notes between the lines of your Stats.txt file
 provided that the notes begin with the '#' sign
 
-Commands can be bound to the following keys without error: a-z, A-Z, 0-9, `~!@$%^&*()-=_+[]{}\|;':",./<>?
-Commands can NOT be bound to advanced keys: #, backspace, enter, arrow keys, function keys, ins, home, del, end, shift, alt, etc
+Commands can be bound to the following keys without error: a-z, A-Z, 0-9, `~!@$%^&*()-=_[]{}\|;':"./<>?
+Commands can NOT be bound to advanced keys: #,+, ( , an actual comma), backspace, enter, arrow keys, function keys, ins, home, del, end, shift, alt, etc
 
 #This is a good example!
 
