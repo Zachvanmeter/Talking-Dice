@@ -3,6 +3,9 @@ Hello, I'm Zach or u/leonidizzil
 I wrote this script in the hopes that it make make Table Top Roleplaying games more accessible to the visually impaired. This
 program is equiped with its own Text to Speech reader which can be enabled and disabled by pressing the enter key.
 
+To use this program, download and run the TalkingDice.exe, or if you want a copy of these instructions, download the TalkingDice.zip
+file.
+
 You can view the customization options below, or in the MyCharStats.txt file which is automatically generated.
 
 You can fill the characters folder with as many as 10 different characters and macro sets. Once the program loads, if it detects
